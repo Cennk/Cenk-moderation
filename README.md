@@ -2,5 +2,5 @@
 :)
 
 <center> 
-<\center>
+</center>
 
