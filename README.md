@@ -1,5 +1,5 @@
 # Cenk-moderation
-Bota ait bazı görseller :)
+Bota ait bazı görseller:)
 
 <center> 
 </center>
