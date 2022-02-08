@@ -6,6 +6,8 @@ Bota ait bazı görseller :)
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/935861872966647808/unknown.png" alt="31" />
 <img src="https://media.discordapp.net/attachments/782073495780589577/940680530985353276/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/940680830437699604/unknown.png" alt="31" />
+<img src="https://cdn.discordapp.com/attachments/782073495780589577/940725995500097566/unknown.png" alt="31" />
+<img src="https://cdn.discordapp.com/attachments/782073495780589577/940726113020293151/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/935865336828399636/unknown.png" alt="31" />
 <img src="https://media.discordapp.net/attachments/782073495780589577/935859970954653756/unknown.png?width=805&height=222" alt="31" />
 <img src="https://media.discordapp.net/attachments/782073495780589577/935861448167534612/unknown.png?width=418&height=477" alt="31" />
