@@ -1,5 +1,8 @@
 # Cenk-moderation
-Bota ait bazı görseller :)
+Hepinize merhaba arkadaşlar biliyorum altyapıyı bekliyorsunuz ufak hatalar ve yenilikler eklediğimden biraz uzun sürdü zaten v13'e geçmek elinde sonunda zorunlu olucak 
+artık botlarda prefix sistemi kalmicak zaten paylaşmazsam elimde patlar en geç 1 bilemediniz 2 hafta içinde altyapı paylaşıma sunulucak bunun dışında istediğiniz bir şey olursa bana discord üzerinden yazın eğer dikkatimi çekerse ekleyebilirim bota :)
+
+Bota ait bazı görseller ; 
 
 <center> 
 </center>
