@@ -2,7 +2,7 @@
 Hepinize merhaba arkadaşlar biliyorum altyapıyı bekliyorsunuz ufak hatalar ve yenilikler eklediğimden biraz uzun sürdü zaten v13'e geçmek elinde sonunda zorunlu olucak 
 artık botlarda prefix sistemi kalmicak zaten paylaşmazsam elimde patlar en geç 1 bilemediniz 2 hafta içinde altyapı paylaşıma sunulucak bunun dışında istediğiniz bir şey olursa bana discord üzerinden yazın eğer dikkatimi çekerse ekleyebilirim. :)
 <hr>
-Ayrıca bu konularda bana destek olan ve yardım edenevansye teşekkür ediyorum . Ona ait github hesabını ve discord profilini aşşağıdaki linkten bulabilirsiniz.
+Ayrıca bu konularda bana destek olan ve yardım eden evansye teşekkür ediyorum. Ona ait github hesabını ve discord profilini aşşağıdaki linkten bulabilirsiniz.
 
 <a href="https://github.com/evansyxd" title="Github">Github</a><br>
 <a href="https://discord.com/users/536856882703499264" title="Discord Profile">Discord Profile</a> 
