@@ -8,6 +8,9 @@ Ayrıca bu konularda bana destek olan ve yardım eden evansye teşekkür ediyoru
 <a href="https://discord.com/users/536856882703499264" title="Discord Profile">Discord Profile</a> 
 <hr>
 
+# Kurulum Nasıl Yapılır?
+- `config.json` dosyasını doldurmanız yeterlidir. 
+
 Bota ait bazı görseller ; 
 
 <center> 
