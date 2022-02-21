@@ -29,3 +29,5 @@ Bota ait bazı görseller ;
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/935863426046119986/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/945124251294400522/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/935863049435361320/unknown.png" alt="31" />
+<img src="https://cdn.discordapp.com/attachments/782073495780589577/945125613604331520/unknown.png" alt="31" />
+
