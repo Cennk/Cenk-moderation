@@ -74,12 +74,12 @@
     
   "register": {
       "ayrac": "|",
-      "erkek": ["912810460120748095"],
-      "ekrek": ["912810460120748095"],
-      "kız": ["912810460120748096"],
-      "unregister": ["912810460120748094"],
-      "botCommander": ["912810460133351482"],
-      "yetkilialim": "912810460166889539"
+      "erkek": [""],
+      "ekrek": [""],
+      "kız": [""],
+      "unregister": [""],
+      "botCommander": [""],
+      "yetkilialim": ""
       },
     
   "yetki": {
