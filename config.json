@@ -1,0 +1,148 @@
+{
+  "prefix": ".",
+  "sunucu": "",
+  "qwe": "",
+  "mongoURI": "",
+  "botOwners": ["",""],
+  "botSesID": "",
+  "readyFooter": [
+  "Cennk ❤️ ",
+  "Cennk ❤️ "
+  ],
+
+  "snc": {
+  "sncIsim": "sunucuisim"
+  },
+
+  "sayilar": [
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9"
+],
+
+  "sunucuayar": {
+      "welcomekanal":"",
+      "suphelikanal":"",
+      "commandslog":"",
+      "ruleskanal":"",
+      "join":"",
+      "leave":"",
+      "booster": "",
+      "publicParents":"",
+      "gchat": "",
+      "rollog":"",
+      "inviteLogChannel": "",
+      "yetkiliRoller": [""]
+
+  },
+
+  
+  "tag": {
+      "TaglıAlım":false,
+      "taglıTag": "Ϯ",
+      "tagsızTag": "Ϯ",
+      "kayıtlog":"",
+      "tagRol": "",
+      "tagLog": "",
+      "authority":""
+      },
+
+  "hammers": {
+      "jailHammer": [""],
+      "muteHammer": [""],
+      "banHammer": [""],
+      "voiceMuteHammer": [""],
+      "uyariHammer": [""]
+      
+      },
+      "Perms": {
+      "TransportAuth": [""]
+  },
+  "cezaliRoller": {
+      "jailRoles": "",
+      "muteRoles": "",
+      "karantinaRoles": "",
+      "supheli": ""
+      },
+    
+  "register": {
+      "ayrac": "|",
+      "erkek": ["912810460120748095"],
+      "ekrek": ["912810460120748095"],
+      "kız": ["912810460120748096"],
+      "unregister": ["912810460120748094"],
+      "botCommander": ["912810460133351482"],
+      "yetkilialim": "912810460166889539"
+      },
+    
+  "yetki": {
+      "deneme": [""],
+      "botc": [""],
+      "vip": "",
+      "lovers":"",
+      "streamerd":[""],
+      "falcı":[""],
+      "streamer":""
+    },
+
+    "katılım": {
+        "cek":"",
+        "etk":""
+    },
+      "ilişki": {
+        "alone":"",
+        "lgbt":"",
+        "lovers":""
+    },
+  
+    "COLOR": {
+        "YELLOW":"",
+        "RED":"",
+        "BLUE":"",
+        "GREEN":"",
+        "PURPLE":""
+    },
+  
+    "takım": {
+        "trabzon":"",
+        "fener":"",
+        "galata":"",
+        "beşik":""
+    },
+  
+    "GAMEROLES": {
+        "CSGO":"",
+        "VALO":"",
+        "LOL":"",
+        "PUBGM":"",
+        "ZULA":"",
+        "GTA":"",
+        "ETS":"",
+        "MLB":"",
+        "PUBG":""
+    },  
+
+
+  "webHooks": {
+    "messageLog": { "id": "", "token": "" },
+    "voiceLog": { "id": "", "token": "" }
+    },  
+
+  "Reacts": {
+      "duztik": "",
+      "iptal":"",
+      "mavi": "",
+      "mute":"",
+      "warn":""
+    }
+
+
+
+}
