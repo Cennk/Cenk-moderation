@@ -20,6 +20,8 @@ Bota ait bazı görseller ;
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/940680830437699604/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/940725995500097566/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/940726113020293151/unknown.png" alt="31" />
+<img src="https://cdn.discordapp.com/attachments/934387313641938975/981954704277913650/unknown.png" alt="31" />
+<img src="https://cdn.discordapp.com/attachments/932362301250613248/981954952794628147/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/782073495780589577/935865336828399636/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/931707079662665748/981953973328154705/unknown.png" alt="31" />
 <img src="https://cdn.discordapp.com/attachments/931707079662665748/981954103099924520/unknown.png" alt="31" />
